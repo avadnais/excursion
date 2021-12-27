@@ -1,0 +1,43 @@
+html {
+    background-color: black;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+img, video {
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
